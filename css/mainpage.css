@@ -1,0 +1,10 @@
+h2 {
+    font-size: 2rem;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+.can-logo-and-name {
+    max-width: 50%;
+}
+

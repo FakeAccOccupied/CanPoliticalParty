@@ -1,0 +1,41 @@
+body {
+    background: rgb(255 160 93);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: top;
+    margin: 0px;
+}
+
+header {
+    padding: 1px;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+    padding: 5px 0;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    font-size: 7.5vh;
+}
+
+main {
+    text-align: center;
+}
+
+.CanMiniLogo {
+    max-width: auto;
+}
+
+.header {
+    display: flex;
+    height: 7.5%;
+    min-height: 20px;
+    justify-content: center;
+}
+
+.headerHeading {
+    max-width: 1000px;
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,22 @@
+.img2 {
+    margin-top: 10px;
+    max-width: 150px;
+    height: auto;
+}
+
+.WholePerson {
+    margin: 15px;
+    background: rgb(255, 255, 255);
+    width: 30%;
+    text-align: center;
+}
+
+.EveryoneLineOne {
+    display: flex;
+}
+
+
+.EveryoneLineTwo {
+    display: flex;
+    justify-content: center;
+}
