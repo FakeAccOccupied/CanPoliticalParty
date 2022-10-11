@@ -1,12 +1,12 @@
 .img2 {
-    margin-top: 10px;
+    margin-top: 18px;
     max-width: 150px;
     height: auto;
 }
 
 .WholePerson {
     margin: 15px;
-    background: rgb(255, 255, 255);
+    background: #ac1f1f63;
     width: 30%;
     text-align: center;
 }
